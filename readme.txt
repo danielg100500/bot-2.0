@@ -11,3 +11,4 @@ pipenv install keras
 pipenv install requests
 pipenv install tensorflow
 pipenv install Pillow
+pip install torch torchvision
